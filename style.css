@@ -78,15 +78,6 @@
     transform: rotate(550deg);
   }
   
-  /* Keyframes for continuous rotation */
-  @keyframes rotate-wheel {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(550deg);
-    }
-  }
   
   /* Footer styling */
   footer {
